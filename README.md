@@ -34,7 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjanpalai69&show_icons=true&locale=en" alt="ranjanpalai69" /> &nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanpalai69&" alt="ranjanpalai69" /></p>
 
-<a href="https://github.com/ranjanpalai69 /github-readme-activity-graph"><img alt="ranjanpalai69 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ranjanpalai69 &bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
