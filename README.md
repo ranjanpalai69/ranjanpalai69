@@ -57,6 +57,8 @@ An enthusiastic full-stack web developer with in-depth experience in implementin
 </br>
 
 <span align="center">![ranjanpalai69 GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjanpalai69&show_icons=true&theme=radical) </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <span align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjanpalai69&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></span>
 
 </br>
